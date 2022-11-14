@@ -19,7 +19,7 @@
         assegnazione `=`, incremento `i = i + 1`  
         operazioni matematiche `+ - / %`  
         operazioni logiche `==`, `<=`, `<`, `!=`
-        `+` con le strighe per concatenare
+        `+` con le strighe per concatenare  
     Differenza tra istruzioni ed espressioni. 
     Operazioni  
         `alert()`, `prompt()`, `confirm()` e `console.log()`  
@@ -37,7 +37,7 @@
     ```
 - **ESERCIZIO** provate a farlo voi
 - **TEORIA**
-    Condizioni: `if`, `if-else`  paragonato con flowchart
+    Condizioni: `if`, `if-else`  paragonato con flowchart  
     comportamento con altri `if`: paralleli, dentro al blocco del primo
     gestione errore su console
 - **LIVE CODING**   
