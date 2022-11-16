@@ -1,4 +1,4 @@
-# Basi di logica e vari cicli
+# Basi di logica e cicli
 
 ## Logica
 
