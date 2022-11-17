@@ -108,6 +108,13 @@ do {
 **ESERCIZIO:**   
 per entrare devi essere > 18: inserisci fino a quando non metti risposta giusta valida (usiamo `parseInt` o `+`)
 
+```
+let anni;
+do {
+  anni = +prompt("anni");
+} while (anni < 18);
+```
+
 **TEORIA:**   
 il ciclo for
 
@@ -120,13 +127,31 @@ for(let i = 0; i < 100 ;i++){
 **LIVE CODING:**  
 somma primi n numeri e poi countdown
 
-Per appendere `num` al fondo di txt:  
-` txt = txt + ", " + num`  
-` txt += ", " + num`
+```
+let out = document.getElementById("out");
 
+// ccuntdown
+for (let i = 10; i >= 0; i--) {
+  console.log(i);
+
+  out.innerText = out.innerText + ", " + i;
+  if (i == 0) {
+    out.innerHTML = "<h1>Buon anno!!!</h1>";
+  }
+  if (i == 10) {
+    out.innerText = 10;
+  }
+}
+```
+
+Per appendere `num` al fondo di txt:  
+` txt = txt + ", " + num`    
+` txt += ", " + num`  
 
 i valori falsy
+```
 if(undefined){}
+```
 
 **ESERCIZIO:**  
 stampa su pagina web la tabellina del 2
@@ -136,9 +161,11 @@ stampa su pagina web la tabelline 1-10
  
 ---
 ## link da vedere:
-[Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
-[Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
-[codepen](https://codepen.io/)
+[Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)  
+[Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)  
+[codepen](https://codepen.io/)  
 
-## Da Paolo
-https://en.wikipedia.org/wiki/Eleusis_(card_game)
+
+## Extra
+[DALL-E](https://labs.openai.com/)
+[Eleusis_(card_game)](https://en.wikipedia.org/wiki/Eleusis_(card_game))
