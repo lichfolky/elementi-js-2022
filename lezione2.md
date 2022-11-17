@@ -48,8 +48,17 @@ Sottopeso       -           BMI < 18.5
 Peso normale    -   18.5 <= BMI < 25.0  
 Sovrappeso      -   25.0 <= BMI < 30.0  
 Obesità         -   30.0 <= BMI
+```
+
+Abbiamo usato:
+[parseInt(numeroStringa)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt?retiredLocale=it)
+
+alternative; `Number(numeroStringa)` e `+numeroStringa`
 
 ```
+[math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+`Math.pow(height, 2)`  
+
 
 Usiamo:    
 [math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)  
@@ -59,9 +68,14 @@ es> Math.pow(height, 2)
 TESTA O CROCE con Math.random()
 
 ... vuoi riprovare?
+```
 
 ---
 ## I cicli
+
+Esempio sale manciate o pizzichi e loop infiniti
+
+
 
 **TEORIA:**  
 il ciclo while, flowchart con un loop
@@ -71,8 +85,17 @@ while(condizione){
     
 }
 ```
+
 **LIVE CODING:**   
     conta fino a 100 e poi countdown
+```
+let cont = 10;
+while (cont > 0) {
+  cont--;
+  console.log(cont);
+}
+console.log(cont);
+```
 
 **TEORIA:**  
 do while, flowchart con un loop
@@ -101,6 +124,10 @@ Per appendere `num` al fondo di txt:
 ` txt = txt + ", " + num`  
 ` txt += ", " + num`
 
+
+i valori falsy
+if(undefined){}
+
 **ESERCIZIO:**  
 stampa su pagina web la tabellina del 2
 
@@ -109,7 +136,8 @@ stampa su pagina web la tabelline 1-10
  
 ---
 ## link da vedere:
-
+[Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+[Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 [codepen](https://codepen.io/)
 
 ## Da Paolo
