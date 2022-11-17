@@ -49,11 +49,11 @@ Peso normale    -   18.5 <= BMI < 25.0
 Sovrappeso      -   25.0 <= BMI < 30.0  
 Obesità         -   30.0 <= BMI
 
-Useremo:    
-[math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
-Math.pow(height, 2)  
-
 ```
+
+Usiamo:    
+[math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)  
+es> Math.pow(height, 2)  
 
 **ESERCIZIO OPZIONALE:**   
 TESTA O CROCE con Math.random()
