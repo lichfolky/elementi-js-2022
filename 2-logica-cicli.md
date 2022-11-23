@@ -52,11 +52,11 @@ Obesità         -   30.0 <= BMI
 ```
 
 Abbiamo usato:
-[Documentazione di parseInt(numeroStringa)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt?retiredLocale=it)
+> [parseInt(numeroStringa)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt?retiredLocale=it)
 
 alternative; `Number(numeroStringa)` e `+numeroStringa`
 
-[Documentazione di Math.pow(), esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+> [Math.pow(), esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
   
 es: `Math.pow(height, 2)`  
 

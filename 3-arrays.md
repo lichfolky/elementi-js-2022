@@ -31,10 +31,10 @@ Trovare il minimo di un array
 
 inizializzare array, array vuoto 
 
-[Documentazione di Array.push()](
+> [Array.push()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 
-[Documentazione di Array.pop()](
+> [Array.pop()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 
 **ESERCIZIO**
@@ -49,10 +49,10 @@ conta parole, caratteri di testo, parola più lunga, spazi e vocali.
 
 [https://loremipsum.io/](https://loremipsum.io/)  
 
-[Documentazione di String.split()](
+> [String.split()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
-[Documentazione di Array.join()](
+> [Array.join()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 **ESERCIZIO**  
@@ -77,14 +77,31 @@ newDiv.classList.add("child");
 newDiv.innerText = "I am child";
 parent.append(newDiv);
 ```
-[Documentazione di createElement](
+> [createElement](
 https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 
-[Documentazione di classList](
+> [classList](
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) e dei suoi metodi, add, remove, toggle, contains.
 
 **ESERCIZIO**  
-Dato array di ingredienti, output con lista usando `ul` e `li`
+Dato array di ingredienti, output HTML usando `ul` e `li`
+
+```
+["Carne tritta mista 300 g",
+"Salsiccia 100 g",
+"Carote 50 g",
+"Sedano 50 g",
+"Cipolle 50 g",
+"Vino rosso 100 g",
+"Passata di pomodoro 300 g",
+"Brodo vegetale q.b.",
+"Olio extravergine d'oliva 1 cucchiaio",
+"Sale fino q.b.",
+"Pepe nero q.b."]
+```
 
 **ESERCIZIO**
 Data una parola creare tutti gli anagrammi possibili
+
+**ESERCIZIO**
+Data una parola valutare se è palindroma
