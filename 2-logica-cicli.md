@@ -6,6 +6,7 @@ AND: `&&`,  OR: `||`, NOT `!` tavole verità
 
 la vecchia porta la sbarra
 
+Proviamo sulle tavole di verità:
 ```
 A && B
 A || B
@@ -23,7 +24,7 @@ leggi di de Morgan
 
 **ESERCIZIO insieme:** 
 
-logica con gli if.
+La logica degli if
 ```
 if(A){
     ?
@@ -51,24 +52,18 @@ Obesità         -   30.0 <= BMI
 ```
 
 Abbiamo usato:
-[parseInt(numeroStringa)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt?retiredLocale=it)
+[Documentazione di parseInt(numeroStringa)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt?retiredLocale=it)
 
 alternative; `Number(numeroStringa)` e `+numeroStringa`
 
-```
-[math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
-`Math.pow(height, 2)`  
+[Documentazione di Math.pow(), esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+  
+es: `Math.pow(height, 2)`  
 
-
-Usiamo:    
-[math pow, esponente](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)  
-es> Math.pow(height, 2)  
-
-**ESERCIZIO OPZIONALE:**   
+**ESERCIZIO:**   
 TESTA O CROCE con Math.random()
 
 ... vuoi riprovare?
-```
 
 ---
 ## I cicli

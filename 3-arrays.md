@@ -1,0 +1,90 @@
+# Arrays ed eventi
+
+## Introduzione
+lo scambio di variabili
+```javascript
+let x = 3;
+let y = 9;
+let aux = x;
+x = y;
+y = aux;
+```
+Perchè ci servono le strutture dati?
+
+## Arrays
+Cos'è un array  
+
+```javascript
+let mioArray = [2, 4, 5, 4];
+console.log(mioArray + " è lungo: "+ mioArray.length);
+mioArray[1] = 2;
+console.log(mioArray);
+console.log(mioArray + " è lungo: "+ mioArray.length);
+```  
+
+**LIVE CODING:**   
+Calcolare la somma elementi e il massimo di un array
+```javascript
+```
+**ESERCIZIO**
+Trovare il minimo di un array
+
+inizializzare array, array vuoto 
+
+[Documentazione di Array.push()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+
+[Documentazione di Array.pop()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+
+**ESERCIZIO**
+Dato un array di numeri, creare un nuovo array con solo numeri pari
+
+Gli array possono contenere stringhe.
+Le stringhe sono array!
+
+**LIVE CODING:**   
+Testo e array di stringhe
+conta parole, caratteri di testo, parola più lunga, spazi e vocali.
+
+[https://loremipsum.io/](https://loremipsum.io/)  
+
+[Documentazione di String.split()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+[Documentazione di Array.join()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+
+**ESERCIZIO**  
+Dato l'array `["Hello", "World","in" ,"a","frame"]`
+creare:
+```
+*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
+```
+
+## DOM creazione elementi
+
+```javascript
+const parent = document.querySelector(".parent");
+const newDiv = document.createElement("div");
+newDiv.classList.add("child");
+newDiv.innerText = "I am child";
+parent.append(newDiv);
+```
+[Documentazione di createElement](
+https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+[Documentazione di classList](
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) e dei suoi metodi, add, remove, toggle, contains.
+
+**ESERCIZIO**  
+Dato array di ingredienti, output con lista usando `ul` e `li`
+
+**ESERCIZIO**
+Data una parola creare tutti gli anagrammi possibili
