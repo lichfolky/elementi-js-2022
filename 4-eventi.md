@@ -1,9 +1,10 @@
 # Eventi, funzioni e scope
+**Esercizio**
+Finiamo cornicetta
 
 **Esercizio**
 Un errore da mostrare con array:
 https://codepen.io/Lichfolky/pen/wvyrjON
-
 
 **Esercizio**
 Un po' di calvino?

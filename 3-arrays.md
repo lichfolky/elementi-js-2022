@@ -29,6 +29,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 > [Array.pop()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 
+> [Array.slice(start, end)](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+
+
 **ESERCIZIO:**   
 Calcolare la somma elementi e il massimo di un array,
 rovare il minimo di un array
@@ -109,13 +113,7 @@ Data una parola valutare se è palindroma
 
 ## Extra
 
-Un errore da mostrare con array:
-https://codepen.io/Lichfolky/pen/wvyrjON
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+cosa succede se si preme punto ('.') in una repo di github
 
 
 [hemingwayapp](https://hemingwayapp.com/)
