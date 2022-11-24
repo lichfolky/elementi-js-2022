@@ -7,5 +7,5 @@
 ## [Argomenti lezione 2](2-logica-cicli.md) del 17 Nov 2022  
 - Esercizio: [Calcolatore del BMI](/bmi-calc)
 
-## [Argomenti lezione 3](3-arrays.md) del 24 Nov 2022  
-
+## [Argomenti lezione 3](3-arrays.md) del 24 Nov 2022   
+- Esercizio: [Esperimenti con il DOM e le tabelline](/lista-spesa-tabelline)
