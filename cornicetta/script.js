@@ -26,7 +26,8 @@ Data la stringa "Pippo pippo non lo sa" creare:
 //     stampare "* parola *"
 // stampare ultima riga
 
-let testo = "Ecco il mio segreto. È molto semplice: si vede solo con il cuore. L'essenziale è invisibile agli occhi";
+let testo = "Non può piovere per sempre";
+
 let maxParola = "";
 let maxParolaNum = 0;
 
