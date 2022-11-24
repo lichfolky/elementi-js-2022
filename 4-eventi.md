@@ -1,6 +1,8 @@
 # Eventi, funzioni e scope
 **Esercizio**
 Finiamo cornicetta
+`pre`
+guardiamo modifiche che ho fatto, prima togli il pre
 
 **Esercizio**
 Un errore da mostrare con array:
@@ -13,7 +15,7 @@ Un po' di calvino?
 **Show**
 reset cache
 max(...array)
-
+regex
 
 **Esercizio**
 Dato questo codice:

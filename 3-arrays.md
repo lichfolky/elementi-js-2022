@@ -84,6 +84,8 @@ creare:
 *********
 ```
 
+Invariante di ciclo `lunghezza parola più lunga - lunghezza parola corrente = numero di spazi da aggiungere al fondo`;
+
 **LIVE CODING:**   
 Testo e array di stringhe
 conta parole, caratteri di testo, parola più lunga, spazi e vocali.
