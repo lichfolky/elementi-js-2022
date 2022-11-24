@@ -105,3 +105,14 @@ Data una parola creare tutti gli anagrammi possibili
 
 **ESERCIZIO**
 Data una parola valutare se è palindroma
+
+## Extra
+
+Un errore da mostrare con array:
+https://codepen.io/Lichfolky/pen/wvyrjON
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
