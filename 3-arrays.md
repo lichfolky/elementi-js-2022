@@ -21,14 +21,6 @@ mioArray[1] = 2;
 console.log(mioArray);
 console.log(mioArray + " è lungo: "+ mioArray.length);
 ```  
-
-**LIVE CODING:**   
-Calcolare la somma elementi e il massimo di un array
-```javascript
-```
-**ESERCIZIO**
-Trovare il minimo di un array
-
 inizializzare array, array vuoto 
 
 > [Array.push()](
@@ -37,36 +29,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 > [Array.pop()](
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 
-**ESERCIZIO**
-Dato un array di numeri, creare un nuovo array con solo numeri pari
-
-Gli array possono contenere stringhe.
-Le stringhe sono array!
-
-**LIVE CODING:**   
-Testo e array di stringhe
-conta parole, caratteri di testo, parola più lunga, spazi e vocali.
-
-[https://loremipsum.io/](https://loremipsum.io/)  
-
-> [String.split()](
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-
-> [Array.join()](
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
-
-**ESERCIZIO**  
-Dato l'array `["Hello", "World","in" ,"a","frame"]`
-creare:
-```
-*********
-* Hello *
-* World *
-* in    *
-* a     *
-* frame *
-*********
-```
+**ESERCIZIO:**   
+Calcolare la somma elementi e il massimo di un array,
+rovare il minimo di un array
 
 ## DOM creazione elementi
 
@@ -82,6 +47,34 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 
 > [classList](
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) e dei suoi metodi, add, remove, toggle, contains.
+
+## Array di stringhe
+
+Gli array possono contenere stringhe.
+Le stringhe sono simili agli array!
+
+> [String.split()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+> [Array.join()](
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+
+**LIVE CODING:**  
+Dato l'array `["Hello", "World","in" ,"a","frame"]`
+creare:
+```
+*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
+```
+
+**LIVE CODING:**   
+Testo e array di stringhe
+conta parole, caratteri di testo, parola più lunga, spazi e vocali.
 
 **ESERCIZIO**  
 Dato array di ingredienti, output HTML usando `ul` e `li`
@@ -111,8 +104,11 @@ Data una parola valutare se è palindroma
 Un errore da mostrare con array:
 https://codepen.io/Lichfolky/pen/wvyrjON
 
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+
+[hemingwayapp](https://hemingwayapp.com/)
+[https://loremipsum.io/](https://loremipsum.io/)  
