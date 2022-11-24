@@ -9,6 +9,12 @@ https://codepen.io/Lichfolky/pen/wvyrjON
 **Esercizio**
 Un po' di calvino?
 
+
+**Show**
+reset cache
+max(...array)
+
+
 **Esercizio**
 Dato questo codice:
 [Treasure hunt](https://codepen.io/Lichfolky/pen/GRGQazY)
