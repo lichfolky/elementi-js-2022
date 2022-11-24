@@ -1,4 +1,4 @@
-# Arrays ed eventi
+# Array e stringhe
 
 ## Introduzione
 lo scambio di variabili
