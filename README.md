@@ -9,5 +9,6 @@
 
 ## [Argomenti lezione 3](3-arrays.md) del 24 Nov 2022   
 - Esercizio: [Esperimenti con il DOM e le tabelline](https://github.com/lichfolky/elementi-js-2022/tree/main/lista-spesa-tabelline/)  
-- Esercizi da fare a casa: [esercizi-base-array](https://github.com/lichfolky/elementi-js-2022/tree/main/esercizi-base-array/)
 - Esercizio: [cornicetta](https://github.com/lichfolky/elementi-js-2022/tree/main/cornicetta/)
+- Esercizi semplici da fare a casa: [esercizi-base-array](https://github.com/lichfolky/elementi-js-2022/tree/main/esercizi-base-array/)
+- L'inizio di "Calvino": [esercizi-base-array](https://github.com/lichfolky/elementi-js-2022/tree/main/esercizi-base-array/)

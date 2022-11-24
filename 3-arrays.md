@@ -48,6 +48,14 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 > [classList](
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) e dei suoi metodi, add, remove, toggle, contains.
 
+## Lo spread e gli array
+
+```javascript
+const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];
+const fruits = ['pear', 'apple'];
+let mix = [...animals, ...fruits];
+```
+
 ## Array di stringhe
 
 Gli array possono contenere stringhe.
