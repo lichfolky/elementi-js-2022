@@ -53,7 +53,6 @@ function stampaRiga() {
         asterischi += "*";
     }
     console.log(asterischi);
-    scriviSuPagina(asterischi);
 }
 
 function stampaParole() {
@@ -66,16 +65,9 @@ function stampaParole() {
         }
         daStampare += " *";
         console.log(daStampare);
-        scriviSuPagina(daStampare);
     }
 }
 
-function scriviSuPagina(textLine) {
-    let cornicetta = document.querySelector(".cornicetta");
-    let line = document.createElement("div");
-    line.innerText = textLine;
-    cornicetta.append(line);
-}
 
 stampaRiga();
 stampaParole();

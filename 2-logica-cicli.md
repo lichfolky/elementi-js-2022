@@ -162,5 +162,5 @@ stampa su pagina web la tabelline 1-10
 
 
 ## Extra
-[DALL-E](https://labs.openai.com/)
+[DALL-E](https://labs.openai.com/)  
 [Eleusis_(card_game)](https://en.wikipedia.org/wiki/Eleusis_(card_game))
