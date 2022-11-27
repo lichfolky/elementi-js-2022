@@ -22,4 +22,4 @@
 ## [Argomenti lezione 4](4-funzioni-date.md) del 28 Nov 2022 
 ### Funzioni, date e intro Git
 
-- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/))
+- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)

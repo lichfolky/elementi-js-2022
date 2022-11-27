@@ -5,19 +5,23 @@ Un errore da mostrare con array:
 https://codepen.io/Lichfolky/pen/wvyrjON
 
 **Le funzioni**
-Cosa sono le funzioni, parametri multipli, parametri default.
-Parametri non assegnati.
-Return value, anche dentro ad un if, ciclo. `return` senza value
-Scope, variabili locali e globali (anche nei cicli).
+Cosa sono le funzioni, parametri multipli, parametri default.  
+Parametri non assegnati.  
 
-`quadrato`
+Definire una funzione non l'esegue!  
+Come chiamare una funzione.  
 
-`max(...array)`
+Return value, anche dentro ad un if, ciclo. 
+`return` senza value.  
+Scope, variabili locali e globali (anche nei cicli).  
 
-parametri primitivi sono passati per valore
-i non primitivi sono passati per referenza
+`quadrato`  
 
-Defining a function does not execute it. 
+`max(...array)`  
+
+parametri primitivi sono passati per valore  
+i non primitivi sono passati per referenza  
+
 
 **Esercizio**
 Scrivo 2d4 lancia due dadi da 4
