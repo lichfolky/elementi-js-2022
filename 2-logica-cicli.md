@@ -70,8 +70,6 @@ TESTA O CROCE con Math.random()
 
 Esempio sale manciate o pizzichi e loop infiniti
 
-
-
 **TEORIA:**  
 il ciclo while, flowchart con un loop
 
@@ -159,7 +157,6 @@ stampa su pagina web la tabelline 1-10
 [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)  
 [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)  
 [codepen](https://codepen.io/)  
-
 
 ## Extra
 [DALL-E](https://labs.openai.com/)  
