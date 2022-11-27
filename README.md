@@ -1,4 +1,5 @@
 # Corso di elementi di programmazione  
+Corso introduttivo alla programmazione in Javascript [[Repository su Github]](https://github.com/lichfolky/elementi-js-2022).
 
 ## [Argomenti lezione 1](1-intro-variabili-condizioni.md) del 14 Nov 2022   
 ### Flow charts, variabili, espressioni, operazioni e condizioni
