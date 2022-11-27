@@ -24,3 +24,21 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 ### Funzioni, date e intro Git
 
 - [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)
+
+
+
+---  
+
+## Risorse aggiuntive
+
+**Documentazione javascript**  
+MDN: https://developer.mozilla.org/en-US/  
+w3schools: https://www.w3schools.com/jsref/default.asp  
+javascript.info: https://javascript.info/  
+In caso di bug e errori difficili: https://stackoverflow.com/  
+
+
+**Tools**  
+Visual Studio Code: https://code.visualstudio.com/  
+Figma / Figjam è la webapp che abbiamo usato per disegnare il flowchart: https://www.figma.com/figjam/  
+Ambiente virtuale per piccoli esperimenti: https://codepen.io/  
