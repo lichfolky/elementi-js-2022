@@ -22,16 +22,16 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 
 ## [Argomenti lezione 4](4-funzioni-git.md) del 28 Nov 2022 
 ### Funzioni e intro Git
-[esercizi-funzioni](https://github.com/lichfolky/elementi-js-2022/tree/main/funzioni/)[🔎](https://lichfolky.github.io/funzioni/)
+- [esercizi-funzioni](https://github.com/lichfolky/elementi-js-2022/tree/main/funzioni/)[🔎](https://lichfolky.github.io/funzioni/)
 
 ## [Argomenti lezione 5](5-funzioni2-deploy.md) del 1 Dic 2022  
 ### Funzioni 2 e deploy su Github  
-[i dadi gdr](https://github.com/lichfolky/elementi-js-2022/tree/main/dadi-gdr/)[🔎](https://lichfolky.github.io/dadi-gdr/)
+- [i dadi gdr](https://github.com/lichfolky/elementi-js-2022/tree/main/dadi-gdr/)[🔎](https://lichfolky.github.io/elementi-js-2022/dadi-gdr/)  
 
 ## [Argomenti lezione 6](6-oggetti-JSON.md) del 6 Dic 2022 
 ### Oggetti JSON
 
-- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)
+- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/elementi-js-2022/advent-calendar/)  
 
 
 
@@ -40,12 +40,12 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 ## Risorse aggiuntive
 
 **Documentazione javascript**  
-MDN: [https://developer.mozilla.org/en-US/] 
-w3schools: [https://www.w3schools.com/jsref/default.asp]  
-javascript.info: [https://javascript.info/] 
-In caso di bug e errori difficili: [https://stackoverflow.com/]
+MDN: https://developer.mozilla.org/en-US/
+w3schools: https://www.w3schools.com/jsref/default.asp
+javascript.info: https://javascript.info/ 
+In caso di bug e errori difficili: https://stackoverflow.com/
 
 **Tools**  
-Visual Studio Code: [https://code.visualstudio.com/]  
-Figma / Figjam è la webapp che abbiamo usato per disegnare il flowchart: [https://www.figma.com/figjam/]  
-Ambiente virtuale per piccoli esperimenti: [https://codepen.io/] 
+Visual Studio Code: https://code.visualstudio.com/  
+Figma / Figjam è la webapp che abbiamo usato per disegnare il flowchart: https://www.figma.com/figjam/  
+Ambiente virtuale per piccoli esperimenti: https://codepen.io/
