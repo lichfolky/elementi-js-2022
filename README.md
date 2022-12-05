@@ -20,8 +20,16 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 - L'inizio di "Calvino": [calvino](https://github.com/lichfolky/elementi-js-2022/tree/main/calvino/) [🔎](https://lichfolky.github.io/elementi-js-2022/calvino/)
 - Esercizi semplici da fare a casa: [esercizi-base-array](https://github.com/lichfolky/elementi-js-2022/tree/main/esercizi-base-array/)
 
-## [Argomenti lezione 4](4-funzioni-date.md) del 28 Nov 2022 
-### Funzioni, date e intro Git
+## [Argomenti lezione 4](4-funzioni-git.md) del 28 Nov 2022 
+### Funzioni e intro Git
+[esercizi-funzioni](https://github.com/lichfolky/elementi-js-2022/tree/main/funzioni/)[🔎](https://lichfolky.github.io/funzioni/)
+
+## [Argomenti lezione 5](5-funzioni2-deploy.md) del 1 Dic 2022  
+### Funzioni 2 e deploy su Github  
+[i dadi gdr](https://github.com/lichfolky/elementi-js-2022/tree/main/dadi-gdr/)[🔎](https://lichfolky.github.io/dadi-gdr/)
+
+## [Argomenti lezione 6](6-oggetti-JSON.md) del 6 Dic 2022 
+### Oggetti JSON
 
 - [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)
 
