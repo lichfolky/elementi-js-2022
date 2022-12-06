@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "passata di pomodoro",
+        "quantita": 100,
+        "udm": "ml"
+    },
+    {
+        "nome": "mozzarella",
+        "quantita": 200,
+        "udm": "g"
+    },
+    {
+        "nome": "farina",
+        "quantita": 150,
+        "udm": "g"
+    }
+];

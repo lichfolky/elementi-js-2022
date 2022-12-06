@@ -22,7 +22,7 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 
 ## [Argomenti lezione 4](4-funzioni-git.md) del 28 Nov 2022 
 ### Funzioni e intro Git
-- [esercizi-funzioni](https://github.com/lichfolky/elementi-js-2022/tree/main/funzioni/)[🔎](https://lichfolky.github.io/funzioni/)
+- [esercizi-funzioni](https://github.com/lichfolky/elementi-js-2022/tree/main/funzioni/)[🔎](https://lichfolky.github.io/elementi-js-2022/funzioni/)
 
 ## [Argomenti lezione 5](5-funzioni2-deploy.md) del 1 Dic 2022  
 ### Funzioni 2 e deploy su Github  
@@ -30,8 +30,9 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 
 ## [Argomenti lezione 6](6-oggetti-JSON.md) del 6 Dic 2022 
 ### Oggetti JSON
-
-- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/elementi-js-2022/advent-calendar/)  
+- [ricetta-obj](https://github.com/lichfolky/ricetta-obj) [🔎](https://lichfolky.github.io/ricetta-obj/)   
+- [Esercizio natalizio](https://github.com/lichfolky/script-cat) [🔎](https://lichfolky.github.io/script-cat/)  
+- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)  
 
 
 
