@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.bar-wrap {
+    border: 1px solid black;
+    width: 300px;
+}
+
+.bar {
+    background-color: violet;
+    line-height: 2;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    width: 0;
+    /* overflow: hidden; */
+}
+
+span {
+    padding: 0 1rem;
+}
+
+h1 {
+    color: yellowgreen;
+    font-family: 'Playfair Display', serif;
+}

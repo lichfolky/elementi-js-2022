@@ -29,11 +29,18 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 - [i dadi gdr](https://github.com/lichfolky/elementi-js-2022/tree/main/dadi-gdr/)[🔎](https://lichfolky.github.io/elementi-js-2022/dadi-gdr/)  
 
 ## [Argomenti lezione 6](6-oggetti-JSON.md) del 6 Dic 2022 
-### Oggetti JSON
+### Oggetti e JSON
 - [ricetta-obj](https://github.com/lichfolky/ricetta-obj) [🔎](https://lichfolky.github.io/ricetta-obj/)   
-- [Esercizio natalizio](https://github.com/lichfolky/script-cat) [🔎](https://lichfolky.github.io/script-cat/)  
-- [Esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)  
+- [Esercizio gatto scratch](https://github.com/lichfolky/script-cat) [🔎](https://lichfolky.github.io/script-cat/)  
 
+
+
+## [Argomenti lezione 7](7-librerie-p5.md) del 13 Dic 2022 
+### Librerie e contenuti esterni
+
+- [Progress bar](https://github.com/lichfolky/progress-bar) [🔎](https://lichfolky.github.io/progress-bar/)   
+
+- [Correzione esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)  
 
 
 ---  
