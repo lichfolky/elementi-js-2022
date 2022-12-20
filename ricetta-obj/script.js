@@ -1,3 +1,6 @@
+import ingredienti from "./ingredienti.json" assert {type: 'json'};
+
+
 let numeroPizze = 2;
 
 // prendiamo query string npizze
@@ -7,21 +10,21 @@ if (numeroInput != undefined) {
     numeroPizze = numeroInput;
 }
 
-let ingredienti = [{
-    nome: "passata di pomodoro",
-    quantita: 100,
-    udm: "ml"
-},
-{
-    nome: "mozzarella",
-    quantita: 200,
-    udm: "g"
-},
-{
-    nome: "farina",
-    quantita: 150,
-    udm: "g"
-}];
+// let ingredienti = [{
+//     nome: "passata di pomodoro",
+//     quantita: 100,
+//     udm: "ml"
+// },
+// {
+//     nome: "mozzarella",
+//     quantita: 200,
+//     udm: "g"
+// },
+// {
+//     nome: "farina",
+//     quantita: 150,
+//     udm: "g"
+// }];
 
 
 let elementoListaIngredienti = document.getElementById("ingredienti");

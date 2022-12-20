@@ -42,6 +42,12 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 
 - [Correzione esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)  
 
+## [Argomenti lezione 8]()) del 20 Dic 2022 
+### Chiamate fetch
+
+- [Pokemons](https://github.com/lichfolky/pokedex) [🔎](https://lichfolky.github.io/pokedex/)  
+
+
 
 ---  
 
