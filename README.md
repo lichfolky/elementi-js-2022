@@ -45,7 +45,7 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 ## [Argomenti lezione 8]()) del 20 Dic 2022 
 ### Chiamate fetch
 
-- [Pokemons](https://github.com/lichfolky/pokedex) [🔎](https://lichfolky.github.io/pokedex/)  
+- [Pokemons](https://github.com/lichfolky/elementi-js-2022/pokedex) [🔎](https://lichfolky.github.io/elementi-js-2022/pokedex)  
 
 
 
