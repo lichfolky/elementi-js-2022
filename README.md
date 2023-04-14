@@ -33,8 +33,6 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 - [ricetta-obj](https://github.com/lichfolky/ricetta-obj) [🔎](https://lichfolky.github.io/ricetta-obj/)   
 - [Esercizio gatto scratch](https://github.com/lichfolky/script-cat) [🔎](https://lichfolky.github.io/script-cat/)  
 
-
-
 ## [Argomenti lezione 7](7-librerie-p5.md) del 13 Dic 2022 
 ### Librerie e contenuti esterni
 
@@ -42,12 +40,10 @@ Corso introduttivo alla programmazione in Javascript [[Repository su Github]](ht
 
 - [Correzione esercizio natalizio](https://github.com/lichfolky/advent-calendar) [🔎](https://lichfolky.github.io/advent-calendar/)  
 
-## [Argomenti lezione 8]()) del 20 Dic 2022 
+## [Argomenti lezione 8](8-async-fetch.md) del 20 Dic 2022 
 ### Chiamate fetch
 
 - [Pokemons](https://github.com/lichfolky/elementi-js-2022/pokedex) [🔎](https://lichfolky.github.io/elementi-js-2022/pokedex)  
-
-
 
 ---  
 
